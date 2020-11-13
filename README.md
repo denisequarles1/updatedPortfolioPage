@@ -34,7 +34,7 @@ The updated profile contains
 <br>
 
 ## Application
-The deployed application can be found here: 
+The deployed application can be found here: https://denisequarles1.github.io/updatedPortfolioPage/.
 
 <br>
 
