@@ -29,7 +29,7 @@ The updated profile contains
 
 3. Use GitBash to enter the following: git clone [key]
 
-4. The repository will then be copied onto your computer and you can run the index file to see the Horiseon website.
+4. The repository will then be copied onto your computer and you can run the node index.js command
 
 <br>
 
