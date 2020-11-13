@@ -98,7 +98,7 @@ function generateHTML(answers) {
         <li> GitHub Link: <a href https://github.com/denisequarles1/workdayscheduler>WorkDay Scheduler </a> </li>
         <li> Screenshot of Deployed Application: </li> 
         <br>
-        <img src="dayplannerscreenshot.jpg" alt="planner" style="width:800px;height:500px;">
+        <img src="dayplannerscreenshot.JPG" alt="planner" style="width:800px;height:500px;">
   </div>
 </div>
 </body>
