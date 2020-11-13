@@ -95,7 +95,7 @@ function generateHTML(answers) {
 
      <h3>Examples of Student Work </h3>
         <li> Project Title: Day Planner </li>
-        <li> GitHub Link: <a href https://github.com/denisequarles1/workdayscheduler>WorkDay Scheduler </a> </li>
+        <li> GitHub Link: <a href= https://github.com/denisequarles1/workdayscheduler>WorkDay Scheduler </a> </li>
         <li> Screenshot of Deployed Application: </li> 
         <br>
         <img src="dayplannerscreenshot.jpg" alt="planner" style="width:800px;height:500px;">
